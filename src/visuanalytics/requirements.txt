@@ -13,4 +13,4 @@ kiwisolver==1.0.1
 
 # Server requirements
 flask==1.1.2
-gunicorn==20.0.4
+gunicorn==20.1.0
