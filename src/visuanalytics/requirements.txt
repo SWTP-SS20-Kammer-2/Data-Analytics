@@ -1,6 +1,6 @@
 # App requirements
 Pillow==8.1.2
-numpy==1.19.5
+numpy==1.20.2
 requests==2.25.1
 gTTS==2.2.2
 mutagen==1.45.1
