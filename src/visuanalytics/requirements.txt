@@ -4,7 +4,7 @@ numpy==1.19.5
 requests==2.25.1
 gTTS==2.2.2
 mutagen==1.45.1
-matplotlib==3.3.4
+matplotlib==3.4.1
 wordcloud==1.8.1
 pyhumps==1.6.1
 xmltodict==0.12.0
