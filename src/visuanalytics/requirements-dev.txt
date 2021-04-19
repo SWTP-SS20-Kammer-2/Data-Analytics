@@ -3,6 +3,6 @@ sphinx==3.5.3
 sphinx_rtd_theme==0.5.1
 recommonmark==0.7.1
 sphinx-markdown-tables==0.0.15
-docutils==0.16
+docutils==0.17.1
 
 -r requirements.txt
