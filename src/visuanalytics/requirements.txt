@@ -6,7 +6,7 @@ gTTS==2.2.2
 mutagen==1.45.1
 matplotlib==3.3.4
 wordcloud==1.8.1
-pyhumps==1.6.1
+pyhumps==3.0.2
 xmltodict==0.12.0
 pydub==0.25.1
 kiwisolver==1.0.1
